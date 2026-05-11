@@ -116,15 +116,5 @@ Formado como Técnico em Informática pelo Instituto Federal de Minas Gerais - I
 
 
 <br/>
-<br/>
-
-### 📊 Estatísticas
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanRodrigues030&theme=blueberry&show_icons=true&hide_border=true&layout=compact" 
-/>
 
 </p>
