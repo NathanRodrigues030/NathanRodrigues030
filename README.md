@@ -12,13 +12,6 @@ Formado como Técnico em Informática pelo Instituto Federal de Minas Gerais - I
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white" 
         />
     </a>
-    <a href="https://www.instagram.com/nathan_rodrigues30">
-        <img 
-            alt="Instagram" 
-            title="Siga-me no Instagram" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-        />
-    </a>
     <a href="https://github.com/NathanRodrigues030">
         <img 
             alt="Seguir no GitHub" 
