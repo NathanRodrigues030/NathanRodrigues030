@@ -5,14 +5,14 @@
 Graduated as an IT Technician at IFMG, Instituto Federal de Minas Gerais, and studying Computer Engineering at UFMG, Universidade Federal de Minas Gerais, I'm looking to focus my academic development and professional career in Cibersecurity and AI in both software and hardware areas.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/nathanlmr">
+    <a href="https://www.linkedin.com/in/nathanlmr" style="text-decoration: none;">
         <img 
             alt="LinkedIn" 
             title="Ver meu perfil no LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white" 
         />
     </a>
-    <a href="https://github.com/NathanRodrigues030">
+    <a href="https://github.com/NathanRodrigues030" style="text-decoration: none;">
         <img 
             alt="Seguir no GitHub" 
             title="Siga-me no GitHub" 
