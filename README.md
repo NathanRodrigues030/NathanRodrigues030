@@ -1,8 +1,8 @@
 # 👾 Nathan Rodrigues
 
-**`Estudante e a aspirante a hacker ético`**
+**`Computer Engineer Padawan`**
 
-Formado como Técnico em Informática pelo Instituto Federal de Minas Gerais - IFMG e graduando em Engenharia de Computação pela Universidade Federal de Minas Gerais - UFMG, pretendo focar meus estudos e carreiras profissional e acadêmica nas áreas de Cibersegurança e Inteligência Artificial, tanto na parte de hardware quanto de software.
+Graduated as an IT Technician at IFMG, Instituto Federal de Minas Gerais, and studying Computer Engineering at UFMG, Universidade Federal de Minas Gerais, I'm looking to focus my academic development and professional career in Cibersecurity and AI in both software and hardware areas.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/nathanlmr">
@@ -17,13 +17,6 @@ Formado como Técnico em Informática pelo Instituto Federal de Minas Gerais - I
             alt="Seguir no GitHub" 
             title="Siga-me no GitHub" 
             src="https://img.shields.io/badge/Seguir-181717?style=for-the-badge&logo=github&logoColor=white" 
-        />
-    </a>
-    <a href="https://github.com/NathanRodrigues030/NathanRodrigues030/stargazers">
-        <img 
-            alt="Dar Estrela no GitHub" 
-            title="Dê uma estrela neste repositório" 
-            src="https://custom-icon-badges.demolab.com/badge/Dar%20Estrela-FFA500?style=for-the-badge&logo=star&logoColor=white" 
         />
     </a>
 </p>
