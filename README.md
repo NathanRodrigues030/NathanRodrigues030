@@ -23,7 +23,7 @@ Graduated as an IT Technician at IFMG, Instituto Federal de Minas Gerais, and st
 
 ---
 
-### 🖥️ Linguagens e Tecnologias
+### 🖥️ Programming Languages and Technologies
 
 <img 
     align="left" 
