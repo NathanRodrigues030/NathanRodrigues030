@@ -2,7 +2,7 @@
 
 **`Computing Padawan`**
 
-Graduated as an IT Technician at IFMG, Instituto Federal de Minas Gerais, and studying Computer Engineering at UFMG, Universidade Federal de Minas Gerais, I'm looking to focus my academic development and professional career in Cibersecurity and AI in both software and hardware areas.
+Graduated as an IT Technician at IFMG, Instituto Federal de Minas Gerais, and studying Computer Engineering at UFMG, Universidade Federal de Minas Gerais, I'm looking to focus my academic development and professional career in Cybersecurity and AI in both software and hardware areas.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/nathanlmr">
