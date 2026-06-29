@@ -1,0 +1,53 @@
+<svg viewBox="0 0 520 170" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+  <defs>
+    <clipPath id="flagclip">
+      <rect x="12" y="26" width="72" height="48" rx="3"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#flagclip)">
+    <g transform="translate(12,26) scale(0.112500,0.100000)">
+      <path fill="#bd3d44" d="M0 0h640v480H0"/>
+  <path stroke="#fff" stroke-width="37" d="M0 55.3h640M0 129h640M0 203h640M0 277h640M0 351h640M0 425h640"/>
+  <path fill="#192f5d" d="M0 0h364.8v258.5H0"/>
+  <marker id="us-a" markerHeight="30" markerWidth="30">
+    <path fill="#fff" d="m14 0 9 27L0 10h28L5 27z"/>
+  </marker>
+  <path fill="none" marker-mid="url(#us-a)" d="m0 0 16 11h61 61 61 61 60L47 37h61 61 60 61L16 63h61 61 61 61 60L47 89h61 61 60 61L16 115h61 61 61 61 60L47 141h61 61 60 61L16 166h61 61 61 61 60L47 192h61 61 60 61L16 218h61 61 61 61 60z"/>
+    </g>
+  </g>
+  <rect x="12" y="26" width="72" height="48" rx="3" fill="none" stroke="#ccc" stroke-width="0.5"/>
+  <text x="48" y="86" text-anchor="middle" font-size="11" fill="#1a3a6b" font-weight="bold">English</text>
+
+  <rect x="100" y="28" width="300" height="22" rx="4" fill="#e8e8e8"/>
+  <rect x="100" y="28" width="100" height="22"  rx="4" fill="#8BAED4"/>
+  <rect x="200" y="28" width="100" height="22" fill="#2F6DB5"/>
+  <rect x="300" y="28" width="100" height="22" fill="#1a3a6b"/>
+  <line x1="200" y1="28" x2="200" y2="50" stroke="white" stroke-width="2"/>
+  <line x1="300" y1="28" x2="300" y2="50" stroke="white" stroke-width="2"/>
+  <text x="412" y="43" font-size="13" fill="#1a1a1a" font-weight="500">Speaking</text>
+
+  <rect x="100" y="62" width="300" height="22" rx="4" fill="#e8e8e8"/>
+  <rect x="100" y="62" width="100" height="22"  rx="4" fill="#8BAED4"/>
+  <rect x="200" y="62" width="100" height="22" fill="#2F6DB5"/>
+  <rect x="300" y="62" width="100" height="22" fill="#1a3a6b"/>
+  <line x1="200" y1="62" x2="200" y2="84" stroke="white" stroke-width="2"/>
+  <line x1="300" y1="62" x2="300" y2="84" stroke="white" stroke-width="2"/>
+  <text x="412" y="77" font-size="13" fill="#1a1a1a" font-weight="500">Reading</text>
+
+  <rect x="100" y="96" width="300" height="22" rx="4" fill="#e8e8e8"/>
+  <rect x="100" y="96" width="100" height="22"  rx="4" fill="#8BAED4"/>
+  <rect x="200" y="96" width="100" height="22" fill="#2F6DB5"/>
+  <rect x="300" y="96" width="100" height="22" fill="#1a3a6b"/>
+  <line x1="200" y1="96" x2="200" y2="118" stroke="white" stroke-width="2"/>
+  <line x1="300" y1="96" x2="300" y2="118" stroke="white" stroke-width="2"/>
+  <text x="412" y="111" font-size="13" fill="#1a1a1a" font-weight="500">Writing</text>
+
+
+  <rect x="100" y="136" width="12" height="10" rx="2" fill="#8BAED4"/>
+  <text x="116" y="145" font-size="11" fill="#555">Basic</text>
+  <rect x="178" y="136" width="12" height="10" rx="2" fill="#2F6DB5"/>
+  <text x="194" y="145" font-size="11" fill="#555">Intermediate</text>
+  <rect x="292" y="136" width="12" height="10" rx="2" fill="#1a3a6b"/>
+  <text x="308" y="145" font-size="11" fill="#555">Advanced</text>
+
+</svg>
